@@ -1,0 +1,25 @@
+.hours {
+ 
+    box-sizing: border-box;
+    position: relative;
+    width: 100%;
+    padding-left: 366px;
+    flex: 0 0 75%;
+    max-width: 75%;
+    display: block;
+    padding-top: 600px;
+  }
+
+.table_hours {
+    width: 800px;
+    height: 500px;
+}
+    
+.th_hours {
+    background-color: white;
+    color: rgb(0, 0, 0); 
+    }
+    
+td {
+    text-align: center;
+    }

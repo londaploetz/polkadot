@@ -1,0 +1,40 @@
+.cutting {
+    width: 100%;
+    height: 100vh;
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    position: center;
+  }
+  
+.personal {
+width: 100%;
+height: 100vh;
+display: block;
+justify-content: center;
+align-items: center;
+}
+.colouring {
+width: 100%;
+height: 100vh;
+display: block; 
+justify-content: center;
+align-items: center;
+
+}
+
+.table_grid {
+    border: 2px solid rgb(0, 0, 0);
+    width: 800px;
+    height: 500px;
+}
+    
+    th {
+    background-color: blueviolet;
+    color: white; 
+    }
+    
+    td {
+    text-align: left;
+    }
+    

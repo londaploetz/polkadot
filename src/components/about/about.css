@@ -1,0 +1,19 @@
+ .intro {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 2rem 6rem;
+}
+
+.hello {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 2rem 6rem;
+}
+.polka-dot_about_logo img {
+    width: 100.79px;
+    height: 60px;
+}
