@@ -57,7 +57,7 @@ function Grid() {
       <div className="colouring">
       <table className="table_grid">
         <tr>
-          <th>colouring</th>
+          <th>Colouring</th>
           <th>Director</th>
           <th>Senior Technician</th>
         </tr>
@@ -71,8 +71,8 @@ function Grid() {
           ); 
         })}
         </table>
-         <div className="personal">
-         <table className='table_grid'>
+         <div className="personal_grid">
+         <table className='table_grid_personal'>
         <tr>
           <th>Personalised Colour</th>
           <th>Director</th>
