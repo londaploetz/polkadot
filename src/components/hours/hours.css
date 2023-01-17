@@ -2,7 +2,7 @@
     box-sizing: border-box;
     position: relative;
     width: 10%;
-    padding-left: 400px;
+    padding-left: 83ch;
     flex: 0 0 75%;
     max-width: 70%;
     display: block;
@@ -20,8 +20,8 @@
     font-size: 3ch;
     display: block;
     padding-right: 19ch;
-    padding-left: 14ch;
-    padding-top: 23ch;
+    padding-left: 509px;
+    padding-top: 1ch;
 }
 
 .td_hours {
@@ -38,8 +38,8 @@
     display: block;
     padding-top: 1px;
     padding-bottom: 20px;
-    padding-left: 400px;
-    padding-right: 500px;
+    padding-left: 500px;
+    padding-right: 300px;
     font-size: 2ch;
     text-align: left;
   

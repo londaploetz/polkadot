@@ -5,6 +5,7 @@
     justify-content: center;
     align-items: center;
     position: center;
+    margin: -1%;
   }
   
 .colouring {
@@ -25,26 +26,27 @@ justify-content: center;
 .table_grid {
     width: 800px;
     height: 500px;
-    background-color: rgb(233, 232, 231);
+    background-color: rgba(245, 216, 136, 0.199); 
     font-family:sans-serif;
     font-size: .5cm; 
 }
 .table_grid_personal {
   width: 800px;
   height: 230px;
-  background-color: rgb(233, 232, 231);
+  background-color: rgb(247, 237, 228);
   font-family:sans-serif;
   font-size: .5cm; 
 }
     
     th {
-    background-color: rgb(50, 7, 63);
+    background-color: rgb(98, 31, 104);
     color: rgb(255, 255, 255);
     width: 800px;
     height: 1px;
     }
     
     td {
+      border: 1px solid rgba(0, 0, 0, 0.123);
     text-align: left;
     }
     
