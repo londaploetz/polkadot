@@ -1,11 +1,11 @@
 .cutting {
     width: 100%;
-    height: 100vh;
+    height: 100%;
     display: grid;
     justify-content: center;
     align-items: center;
     position: center;
-    margin: -1%;
+    padding-top: -53px
   }
   
 .colouring {

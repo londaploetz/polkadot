@@ -37,7 +37,6 @@ const timesStore = [
         Please enquire if you need an earier or later appointment.
        </div>
       <div className="dot_border">
-          <img src={dotborder} />
       </div>
     </div>
     )
