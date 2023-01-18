@@ -1,4 +1,5 @@
-![logo bdc4ee4b3fbcaf66f2e9](https://user-images.githubusercontent.com/117487226/213272446-375eaa90-10b7-4d8c-a47d-a60d13a98b8c.png)
+![logo bdc4ee4b3fbcaf66f2e9](https://user-images.githubusercontent.com/117487226/213274366-219f56c0-1abc-4a47-9e59-4d58b4423c90.png)
+
 
 # Polka-Dot Hair Design
 
@@ -17,10 +18,11 @@ HTML, CSS, JavaScript, Node.js
 
 Bootstrap
 ## Developer
-![14940231_10211489996312417_8638129665429695455_o](https://user-images.githubusercontent.com/117487226/213272468-e2d9c565-c549-4751-a448-48b6bbb143f9.jpg)
+<img src="https://user-images.githubusercontent.com/117487226/213274560-ca5248f0-55d9-4dd4-8433-225e14f01d8f.jpg" width="250" height="300"> 
 
 **Londa Ploetz**
-- [@londaploetz](https://www.github.com/londaploetz)
+- Github: [@londaploetz](https://www.github.com/londaploetz)
 - Email: londaploetz@gmail.com
 
 Special thanks to [@AnnaGrace](https://www.github.com/AnnaGrace)
+
