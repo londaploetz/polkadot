@@ -1,0 +1,45 @@
+.hello_about {
+    display: flex;
+    left: 100px;
+    display: block;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 530px;
+    font-size: 3ch;
+    color:rgb(119, 58, 177);  
+}
+
+ .intro_about {
+    display: flex;
+    justify-content: space-between;
+    display: block;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    padding-left: 300px;
+    padding-right: 200px;
+    font-size: 3ch;
+    text-align: left;
+    
+}
+
+.about_logo img {
+    width: 300px;
+    height: 200px;
+    padding-top: 10ch;
+    padding-left: 90ch;
+}
+
+@media screen and (max-width: 650px) {
+    .hello_about {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: 0rem;
+    }
+
+    .intro_about {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: 0rem;
+    }
+
+}
