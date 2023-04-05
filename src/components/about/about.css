@@ -1,10 +1,11 @@
 .hello_about {
-    display: flex;
-    left: 100px;
+    position:absolute;
+    display: block;
     display: block;
     padding-top: 0px;
-    padding-bottom: 0px;
-    padding-right: 530px;
+    top: 133px;
+    left: 21ch;
+    padding-left: 10px;
     font-size: 3ch;
     color:rgb(119, 58, 177);  
 }
@@ -12,7 +13,7 @@
  .intro_about {
     display: flex;
     justify-content: space-between;
-    display: block;
+
     padding-top: 0px;
     padding-bottom: 20px;
     padding-left: 300px;

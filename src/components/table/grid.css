@@ -1,11 +1,14 @@
 .cutting {
-    width: 100%;
+    width: 99ch;
     height: 100%;
-    display: grid;
+    display: flex;
+    position: relative; 
     justify-content: center;
     align-items: center;
     position: center;
-    padding-top: -53px
+    padding-top: -53px; 
+ 
+   left:32ch; 
   }
   
 .colouring {
