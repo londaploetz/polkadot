@@ -1,7 +1,6 @@
 .hello_about {
     position:absolute;
     display: block;
-    display: block;
     padding-top: 0px;
     top: 133px;
     left: 21ch;
@@ -13,7 +12,6 @@
  .intro_about {
     display: flex;
     justify-content: space-between;
-
     padding-top: 0px;
     padding-bottom: 20px;
     padding-left: 300px;
