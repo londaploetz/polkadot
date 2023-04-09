@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/polkadot/static/css/main.c0a79b5a.css",
+    "main.css": "/polkadot/static/css/main.1725490d.css",
     "main.js": "/polkadot/static/js/main.8dc00e19.js",
     "static/media/logo.png": "/polkadot/static/media/logo.bdc4ee4b3fbcaf66f2e9.png",
     "index.html": "/polkadot/index.html",
-    "main.c0a79b5a.css.map": "/polkadot/static/css/main.c0a79b5a.css.map",
+    "main.1725490d.css.map": "/polkadot/static/css/main.1725490d.css.map",
     "main.8dc00e19.js.map": "/polkadot/static/js/main.8dc00e19.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0a79b5a.css",
+    "static/css/main.1725490d.css",
     "static/js/main.8dc00e19.js"
   ]
 }
