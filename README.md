@@ -31,6 +31,7 @@ Bootstrap
 **Londa Ploetz**
 - [@londaploetz](https://www.github.com/londaploetz)
 - Email: londaploetz@gmail.com
+- GitHub deployed URL: https://londaploetz.github.io/polkadot/
 
 Special thanks to [@AnnaxGrace](https://www.github.com/AnnaxGrace)
 
